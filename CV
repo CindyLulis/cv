@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Ejemplo 17 de febrero 2018</title>
+	<link rel="stylesheet" type="text/css" href="estiloscv.css">
+</head>
+<body>
+	<div class="row">
+		<div class="col-6">
+			<p>
+				Home
+			</p>
+			<p>
+				My work
+			</p>
+			<p>
+				Resume
+			</p>
+			<p>
+				Contact
+			</p>
+		</div>
+		<div class="col-6">
+			<p>
+				About Me
+			</p>
+			<img src="">
+			<p>
+				Resume
+			</p>
+			<p>
+				Contact
+			</p>
+		</div>
+	</div>
+</body>
